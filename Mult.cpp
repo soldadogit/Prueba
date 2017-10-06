@@ -82,7 +82,8 @@ delete[] A;
 delete[] B;
 delete[] C;
 
-
+//LAS SUCIAS
+	
 
 
   return 0;
