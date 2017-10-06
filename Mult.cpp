@@ -33,7 +33,7 @@ int sum,j,k;
 
 	}
 }
-
+//CG pechuga sonsa
 void Mult(int **A,int ** B,int **C){
 int sum;
 #pragma omp parallel for
